@@ -1,0 +1,15 @@
+body{
+    background: #E5E5E5;
+}
+.list a {
+    color: aquamarine;
+}
+.list a:hover {
+    color: brown;
+}
+.list a:focus {
+    color: cornflowerblue;
+}
+.list a:active {
+    color: darkgreen;
+}
