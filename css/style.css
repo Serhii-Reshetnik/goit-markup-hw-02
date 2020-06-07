@@ -2,13 +2,13 @@ body{
     background: #E5E5E5;
 }
 .list a {
-    color: aquamarine;
+    color: black;
 }
 .list a:hover {
-    color: brown;
+    color: #2196F3;
 }
 .list a:focus {
-    color: cornflowerblue;
+    color: black;
 }
 .list a:active {
     color: darkgreen;
