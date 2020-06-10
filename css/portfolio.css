@@ -13,3 +13,9 @@ body{
 .list a:active {
     color: darkgreen;
 }
+.web {
+    color: #2196F3;
+}
+.studio {
+    color: black;
+}
